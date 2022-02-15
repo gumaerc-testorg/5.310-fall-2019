@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: a3e5e4c2-e038-520e-a30c-a4c71f000fe5
 ---
@@ -178,7 +181,7 @@ Catalase Kinetics Lab
 {{< tdopen >}}
 
 
-In this experiment, the student will investigate the enzyme activity of catalase by studying the decomposition of H2O2 to form water and oxygen.
+In this experiment, the student will investigate the enzyme activity of catalase by studying the decomposition of H{{< sub "2" >}}O{{< sub "2" >}} to form water and oxygen.
 
 Using an oxygen based pressure sensor the student measures the amount of oxygen produced and then calculates the rate of the enzyme catalyzed reaction under various conditions.
 

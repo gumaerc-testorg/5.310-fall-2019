@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: Essential Oils, Part 1'
 uid: c759be61-ef7d-a165-4c98-124a19e55b8f
 video_files:
   archive_url: https://archive.org/download/MIT5.310F19/MIT5_310F19_lec08_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-310-laboratory-chemistry-fall-2019/f77d01e6dc44562d9c252002d75abf6b_LNCLrmAvSlU.vtt
+  video_captions_file: /courses/5-310-laboratory-chemistry-fall-2019/f77d01e6dc44562d9c252002d75abf6b_LNCLrmAvSlU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/LNCLrmAvSlU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-310-laboratory-chemistry-fall-2019/26aeaf1fe9a69da284cd5e8fd1d5b460_LNCLrmAvSlU.pdf
+  video_transcript_file: /courses/5-310-laboratory-chemistry-fall-2019/26aeaf1fe9a69da284cd5e8fd1d5b460_LNCLrmAvSlU.pdf
 video_metadata:
   youtube_id: LNCLrmAvSlU
 ---

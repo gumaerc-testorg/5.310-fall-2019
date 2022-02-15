@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Ellen Swallow Richards, Part 2'
 uid: eaf8ec26-8092-a2e3-3133-013b16154bbb
 video_files:
   archive_url: https://archive.org/download/MIT5.310F19/MIT5_310F19_lec06_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-310-laboratory-chemistry-fall-2019/8267925e006a5a87905b01431369e775_-l9SfGuZJYE.vtt
+  video_captions_file: /courses/5-310-laboratory-chemistry-fall-2019/8267925e006a5a87905b01431369e775_-l9SfGuZJYE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/-l9SfGuZJYE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-310-laboratory-chemistry-fall-2019/5835e28bb741c5bbf0612a9d5e01e636_-l9SfGuZJYE.pdf
+  video_transcript_file: /courses/5-310-laboratory-chemistry-fall-2019/5835e28bb741c5bbf0612a9d5e01e636_-l9SfGuZJYE.pdf
 video_metadata:
   youtube_id: -l9SfGuZJYE
 ---

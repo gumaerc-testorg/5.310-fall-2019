@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: The Ferrocene Lecture'
 uid: 7658b498-1b41-2fe2-c7c8-1d2d2379735a
 video_files:
   archive_url: https://archive.org/download/MIT5.310F19/MIT5_310F19_lec02_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-310-laboratory-chemistry-fall-2019/9908e552060a5b98943acaafca4cbf34_EuVpZmQ5v6A.vtt
+  video_captions_file: /courses/5-310-laboratory-chemistry-fall-2019/9908e552060a5b98943acaafca4cbf34_EuVpZmQ5v6A.vtt
   video_thumbnail_file: https://img.youtube.com/vi/EuVpZmQ5v6A/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-310-laboratory-chemistry-fall-2019/5de0b7604a7435466b7c5cc3725ad91e_EuVpZmQ5v6A.pdf
+  video_transcript_file: /courses/5-310-laboratory-chemistry-fall-2019/5de0b7604a7435466b7c5cc3725ad91e_EuVpZmQ5v6A.pdf
 video_metadata:
   youtube_id: EuVpZmQ5v6A
 ---

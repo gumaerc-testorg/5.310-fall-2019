@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Mass Spectroscopy Esterification, Part 2'
 uid: b921cb67-ea0c-5873-9a9b-c92012c70ec5
 video_files:
   archive_url: https://archive.org/download/MIT5.310F19/MIT5_310F19_lec14_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-310-laboratory-chemistry-fall-2019/83d23317084e5b51878cac0d60aa06eb_dgRLgf4oO2s.vtt
+  video_captions_file: /courses/5-310-laboratory-chemistry-fall-2019/83d23317084e5b51878cac0d60aa06eb_dgRLgf4oO2s.vtt
   video_thumbnail_file: https://img.youtube.com/vi/dgRLgf4oO2s/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-310-laboratory-chemistry-fall-2019/da0c89ad60038506d4a94671745d4e68_dgRLgf4oO2s.pdf
+  video_transcript_file: /courses/5-310-laboratory-chemistry-fall-2019/da0c89ad60038506d4a94671745d4e68_dgRLgf4oO2s.pdf
 video_metadata:
   youtube_id: dgRLgf4oO2s
 ---
