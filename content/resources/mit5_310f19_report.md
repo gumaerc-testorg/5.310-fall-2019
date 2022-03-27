@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: bcfc046c-146f-f3f5-6863-adc5f28d416c
 resourcetype: Document
 title: 5.310 Lab Report Format
 uid: eb8333c0-b447-ddf2-e504-b3a34d40721e

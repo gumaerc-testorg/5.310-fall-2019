@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: a3e5e4c2-e038-520e-a30c-a4c71f000fe5
 resourcetype: Document
 title: 5.310 (F19) Lab Report Format
 uid: 1dfcf5c5-1821-a7a6-949f-7745a199c063

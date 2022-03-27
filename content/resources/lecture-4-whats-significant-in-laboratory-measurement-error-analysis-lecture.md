@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: What''s Significant in Laboratory Measurement? Error Analysis Lecture'
 uid: 57a43362-7aa2-e572-b097-4a62e25bd881
 video_files:

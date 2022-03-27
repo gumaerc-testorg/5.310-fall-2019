@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: a3e5e4c2-e038-520e-a30c-a4c71f000fe5
 resourcetype: Document
 title: 5.310 (F19) Laboratory Policies and Organization
 uid: 7932055d-3fe0-eae2-6554-f5cd15c50dd0

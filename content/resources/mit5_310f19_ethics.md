@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: bcfc046c-146f-f3f5-6863-adc5f28d416c
 resourcetype: Document
 title: 5.310 Laboratory Ethics
 uid: 18d66495-c028-96f9-947b-1f732912e119
