@@ -5,6 +5,7 @@ file: /media/courses/5-310-laboratory-chemistry-fall-2019/1a011af67db23b8138d921
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 1a011af6-7db2-3b81-38d9-213119afc5af

@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
+parent_uid: null
 title: Labs
 uid: a3e5e4c2-e038-520e-a30c-a4c71f000fe5
 ---
@@ -15,11 +16,11 @@ The experiments described in these materials are potentially hazardous and requi
 
 This section lists the course's experiment assignments and accompanying materials.
 
-[Laboratory Policies and Organization (PDF)]({{< baseurl >}}/resources/mit5_310f19_laborg)
+{{< resource_link 7932055d-3fe0-eae2-6554-f5cd15c50dd0 "Laboratory Policies and Organization (PDF)" >}}
 
-[Lab Notebooks (PDF)]({{< baseurl >}}/resources/mit5_310f19_notebook)
+{{< resource_link 577eaeb1-af25-3450-a32e-9ab1e9f43b89 "Lab Notebooks (PDF)" >}}
 
-[Report Format (PDF)]({{< baseurl >}}/resources/mit5_310f19_report-1)
+{{< resource_link 1dfcf5c5-1821-a7a6-949f-7745a199c063 "Report Format (PDF)" >}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -65,7 +66,7 @@ In the course of this synthetic sequence, the student will encounter operations 
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Ferrocene Lab Manual (PDF)]({{< baseurl >}}/resources/mit5_310f19_lab1)
+{{< resource_link 5bea2e22-3c5a-899f-b492-c4d3c4bf4785 "Ferrocene Lab Manual (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ This experiment will also improve students’ lab and computational techniques i
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Ellen Swallow Richards Lab Manual (PDF)]({{< baseurl >}}/resources/mit5_310f19_lab2)
+{{< resource_link b45b4414-82cb-2fe3-bfa5-afe515c23622 "Ellen Swallow Richards Lab Manual (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +130,7 @@ Finally, students will visit the X-Ray Crystallography laboratory where spectra 
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Essential Oils Lab Manual (PDF)]({{< baseurl >}}/resources/mit5_310f19_lab3)
+{{< resource_link 3fffe69c-0ce0-4c74-9e43-8f5a7e19aced "Essential Oils Lab Manual (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +162,7 @@ This is an integrated experiment, which combines techniques from organic, thermo
 {{< tdopen >}}
 
 
-[Esterification Lab Manual (PDF - 2MB)]({{< baseurl >}}/resources/mit5_310f19_lab4)
+{{< resource_link c264e7ba-ce5b-7596-50ee-a4debb3f1006 "Esterification Lab Manual (PDF - 2MB)" >}}
 
 Also see:
 
@@ -193,7 +194,7 @@ The student also completes a protein assay on an unknown sample of catalase usin
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Catalase Kinetics Lab Manual (PDF)]({{< baseurl >}}/resources/mit5_310f19_lab5)
+{{< resource_link 12ec0210-cc28-1e23-e3f5-45bd99cc8531 "Catalase Kinetics Lab Manual (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +204,7 @@ The student also completes a protein assay on an unknown sample of catalase usin
 Required Videos from the MIT Digital Laboratory Techniques Manual
 -----------------------------------------------------------------
 
-In addition to the reading and written preparation for each experiment, students are also assigned to view selected videos from the [MIT Digital Laboratory Techniques Manual](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/), a series of videos designed to help students prepare for chemistry laboratory class.
+In addition to the reading and written preparation for each experiment, students are also assigned to view selected videos from the [MIT Digital Laboratory Techniques Manual](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007), a series of videos designed to help students prepare for chemistry laboratory class.
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -5,6 +5,7 @@ file: /media/courses/5-310-laboratory-chemistry-fall-2019/7585cb3a2467541da29af0
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 7585cb3a-2467-541d-a29a-f0d8b8d40389
