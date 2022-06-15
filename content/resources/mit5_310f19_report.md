@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-310-laboratory-chemistry-fall-2019/eb8333c0b447ddf2e504b3a34d40721e_MIT5_310F19_report.pdf
+file: /courses/5-310-laboratory-chemistry-fall-2019/eb8333c0b447ddf2e504b3a34d40721e_MIT5_310F19_report.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

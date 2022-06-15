@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Ellen Swallow Richards, Part 3'
 uid: 1fe740a7-adf0-71a3-47ea-61e3c3264934
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Dr. Dolhun begins the final lecture of the Ellen Swallow Richards series with an electrifying demo on ionized gas molecules, or, plasma. He then covers Inductively Coupled Plasma Mass Spectrometry (ICP-MS) for measuring trace elements in samples and Atomic Absorption Spectroscopy for analyzing mercury in samples.
 
 **Instructor:** Dr. John Dolhun
+
+
+

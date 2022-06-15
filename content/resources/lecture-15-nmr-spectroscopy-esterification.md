@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: NMR Spectroscopy Esterification Lecture, Part 3 '
 uid: 7c47b2b3-8b60-d561-c683-3393aeb2383f
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** John Grimes, from MIT Chemistry's Instrumentation Facility, talks to the class about NMR Spectroscopy. He discusses the parts of an NMR instrument, the analytical technique of NMR, how to measure the signal, and how to interpret the data.
 
 **Instructor:** John Grimes
+
+
+

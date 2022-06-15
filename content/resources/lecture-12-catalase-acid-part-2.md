@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Catalase Acid Part 2'
 uid: 2c91d89b-e0e9-9d8e-62f2-5e1a1ed6230a
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Dr. Hewett begins with an overview of the catalase reaction mechanism. Then she discusses the second part of the catalase lab, where the students will quantify the amount of catalase in a sample and determine the amount of iron centers in the catalase.
 
 **Instructor:** Dr. Sarah Hewett
+
+
+

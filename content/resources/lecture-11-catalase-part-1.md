@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Catalase, Part 1'
 uid: 8b6504da-af5c-5d06-3089-e43a6a1d9b11
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Dr. Hewett introduces the catalase lab. Students will use the catalase enzyme in a decomposition reaction of hydrogen peroxide. Then they will determine the order of the reaction, write a rate law, and calculate the activation energy.
 
 **Instructor:** Dr. Sarah Hewett
+
+
+

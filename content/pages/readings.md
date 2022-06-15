@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section contains a list of required readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: b0f9d280-11fb-aa5b-f65f-30f12ddc315b
 ---
@@ -91,7 +91,7 @@ Ellen Swallow Richards Lab
 
 \[MHS\] Chapter 25: UV & VIS Spectroscopy, pp. 465–475.
 
-Michaud, Joy. Chapter 4 in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_A Citizens Guide to Understanding and Monitoring Lakes and Streams_ (PDF – 7.4MB)](https://fortress.wa.gov/ecy/publications/documents/94149.pdf). Puget Sound Water Quality Authority, 1991, pp. 45–58. 
+Michaud, Joy. Chapter 4 in [_A Citizens Guide to Understanding and Monitoring Lakes and Streams_ (PDF – 7.4MB)](https://fortress.wa.gov/ecy/publications/documents/94149.pdf). Puget Sound Water Quality Authority, 1991, pp. 45–58. 
 
 ### Review
 

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-310-laboratory-chemistry-fall-2019/18d66495c02896f9947b1f732912e119_MIT5_310F19_ethics.pdf
+file: /courses/5-310-laboratory-chemistry-fall-2019/18d66495c02896f9947b1f732912e119_MIT5_310F19_ethics.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

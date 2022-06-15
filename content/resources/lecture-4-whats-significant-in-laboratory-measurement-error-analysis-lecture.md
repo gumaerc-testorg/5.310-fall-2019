@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: What''s Significant in Laboratory Measurement? Error Analysis Lecture'
 uid: 57a43362-7aa2-e572-b097-4a62e25bd881
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In today's lecture, Dr. Hewett discusses what's significant in laboratory measurement, how to take measurements in the lab, how to do calculations, and how to do data analysis when there's a lot of quantitative data, as in the upcoming Charles River lab.
 
 **Instructor:** Dr. Sarah Hewett
+
+
+

@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section lists the topics of each lab and lecture session, as well
+  as key due dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: c1e184f4-b7a0-2fc0-91c6-007275176069
 ---
