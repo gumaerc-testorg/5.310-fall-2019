@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains a list of required readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b0f9d280-11fb-aa5b-f65f-30f12ddc315b
 ---
@@ -7,24 +11,24 @@ uid: b0f9d280-11fb-aa5b-f65f-30f12ddc315b
 Required Text
 -------------
 
-\[MHS\] = Mohrig, Alberg, et al. _Laboratory Techniques in Organic Chemistry_. 4th ed. W. H. Freeman, 2014. ISBN: 9781464134227.
+\[MHS\] = Mohrig, Alberg, et al. _Laboratory Techniques in Organic Chemistry_. 4{{< sup "th" >}} ed. W. H. Freeman, 2014. ISBN: 9781464134227.
 
 Recommended
 -----------
 
-\[SWH\] = Skoog, West, et al. _Fundamentals of Analytical Chemistry_. 9th ed. Brooks Cole, 2013. ISBN: 9780495558286. \[Preview with [Google Books](http://books.google.com/books?id=8bIWAAAAQBAJ&pg=PAfrontcover)\]
+\[SWH\] = Skoog, West, et al. _Fundamentals of Analytical Chemistry_. 9{{< sup "th" >}} ed. Brooks Cole, 2013. ISBN: 9780495558286. \[Preview with [Google Books](http://books.google.com/books?id=8bIWAAAAQBAJ&pg=PAfrontcover)\]
 
-\[S&L\] = Skoog, Holler, and Crouch. _Principles of Instrumental Analysis_. 6th ed. CL, 2007. ISBN: 9788131525579.
+\[S&L\] = Skoog, Holler, and Crouch. _Principles of Instrumental Analysis_. 6{{< sup "th" >}} ed. CL, 2007. ISBN: 9788131525579.
 
-\[Oxtoby\] = Gillis, and Campion. _Principles of Modern Chemistry_. 7th ed. Cengage Learning, 2012. ISBN: 9780840049315.
+\[Oxtoby\] = Gillis, and Campion. _Principles of Modern Chemistry_. 7{{< sup "th" >}} ed. Cengage Learning, 2012. ISBN: 9780840049315.
 
-\[Atkins\] = Jones, and Laverman. _Chemical Principles: The Quest for Insight_. 6th ed. W. H. Freeman, 2012. ISBN: 9781429288972.
+\[Atkins\] = Jones, and Laverman. _Chemical Principles: The Quest for Insight_. 6{{< sup "th" >}} ed. W. H. Freeman, 2012. ISBN: 9781429288972.
 
-\[SFH\] = Steinfeld, Joesph S. Francisco, and Wiliam L. Hase. _Chemical Kinetics and Dynamics_. 2nd ed. Pearson, 1998. ISBN: 9780137371235.
+\[SFH\] = Steinfeld, Joesph S. Francisco, and Wiliam L. Hase. _Chemical Kinetics and Dynamics_. 2{{< sup "nd" >}} ed. Pearson, 1998. ISBN: 9780137371235.
 
-\[JWZ\] = Zubrick. _The Organic Chem Lab Survival Manual: A Student's Guide to Techniques_. 10th ed. Wiley, 2016. ISBN: 9781118875780.
+\[JWZ\] = Zubrick. _The Organic Chem Lab Survival Manual: A Student's Guide to Techniques_. 10{{< sup "th" >}} ed. Wiley, 2016. ISBN: 9781118875780.
 
-\[C&G\] = Coghill, and Garson, eds. _The ACS Style Guide: Effective Communication of Science Information_. 3rd ed. American Chemical Society, 2006. ISBN: 9780841239999.
+\[C&G\] = Coghill, and Garson, eds. _The ACS Style Guide: Effective Communication of Science Information_. 3{{< sup "rd" >}} ed. American Chemical Society, 2006. ISBN: 9780841239999.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -87,7 +91,7 @@ Ellen Swallow Richards Lab
 
 \[MHS\] Chapter 25: UV & VIS Spectroscopy, pp. 465–475.
 
-Michaud, Joy. Chapter 4 in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_A Citizens Guide to Understanding and Monitoring Lakes and Streams_ (PDF – 7.4MB)](https://fortress.wa.gov/ecy/publications/documents/94149.pdf). Puget Sound Water Quality Authority, 1991, pp. 45–58. 
+Michaud, Joy. Chapter 4 in [_A Citizens Guide to Understanding and Monitoring Lakes and Streams_ (PDF – 7.4MB)](https://fortress.wa.gov/ecy/publications/documents/94149.pdf). Puget Sound Water Quality Authority, 1991, pp. 45–58. 
 
 ### Review
 
