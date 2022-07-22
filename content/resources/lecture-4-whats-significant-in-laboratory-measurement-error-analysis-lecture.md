@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In today's lecture, Dr. Hewett discusses what's significant in laboratory measurement, how to take measurements in the lab, how to do calculations, and how to do data analysis when there's a lot of quantitative data, as in the upcoming Charles River lab.
 
 **Instructor:** Dr. Sarah Hewett
-
-
 

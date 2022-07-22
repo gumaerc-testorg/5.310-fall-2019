@@ -5,6 +5,7 @@ file: /courses/5-310-laboratory-chemistry-fall-2019/577eaeb1af253450a32e9ab1e9f4
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

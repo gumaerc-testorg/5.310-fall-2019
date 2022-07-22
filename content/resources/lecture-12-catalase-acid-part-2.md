@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Dr. Hewett begins with an overview of the catalase reaction mechanism. Then she discusses the second part of the catalase lab, where the students will quantify the amount of catalase in a sample and determine the amount of iron centers in the catalase.
 
 **Instructor:** Dr. Sarah Hewett
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Following a brief re-cap of the Charles River Lab results, Dr. Hewett introduces the next unit, essential oils. After an overview of their history, properties, and structures, she then covers what the class will do for the essential oils lab experiment.  
 
 **Instructor:** Dr. Sarah Hewett
-
-
 

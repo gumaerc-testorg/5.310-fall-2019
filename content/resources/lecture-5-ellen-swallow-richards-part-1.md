@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this first of three lectures in the Ellen Swallow Richards series, Dr. Dolhun discusses the water quality issues in Cambridge's beloved Charles River and the methods students will use to analyze river water samples during the next several lab periods. This lecture focuses on measuring dissolved phosphates and phosphorous, significant pollutants for many rivers and lakes.
 
 **Instructor:** Dr. John Dolhun
-
-
 

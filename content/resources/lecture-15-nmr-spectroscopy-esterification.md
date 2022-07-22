@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** John Grimes, from MIT Chemistry's Instrumentation Facility, talks to the class about NMR Spectroscopy. He discusses the parts of an NMR instrument, the analytical technique of NMR, how to measure the signal, and how to interpret the data.
 
 **Instructor:** John Grimes
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** The mass spectroscopy lecture starts with a demonstration, burning a tungsten filament in air and liquid nitrogen. Dr. Dolhun then discusses mass spectroscopy and how it can determine the molecular weights of different types of compounds. He also explains several techniques for ionization and different types of Mass Spectrometers. He ends with evaluating a traditional electron impact mass spectrum.
 
 **Instructor:** Dr. John J. Dolhun
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** The Ferrocene lecture begins with a demonstration of an addition reaction using bacon and bromine gas. Dr. Dolhun then goes over the experiments and reactions leading to the discovery of ferrocene, its structure and properties, and steps for its synthesis in lab.
 
 **Instructor:** Dr. John Dolhun
-
-
 

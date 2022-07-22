@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Dr. Hewett talks about characteristics and properties of esters, and goes over the upcoming lab. Students will synthesize esters by doing an acid catalyzed addition of an alcohol and a carboxylic acid, known as the Fischer Esterification reaction.
 
 **Instructor:** Dr. Sarah Hewett
-
-
 

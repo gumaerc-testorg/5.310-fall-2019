@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-310-laboratory-chemistry-fall-2019/e110e9e5021c25a0782d3f8f8681c59a_MIT5_310F19_grading.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this first lecture, Dr. John Dolhun introduces the teaching team, policies, course format, expectations, grading, and material to be covered during the semester. He also discusses lab notebooks and lab safety rules, then demonstrates a polymer reaction.
 
 **Instructor:** Dr. John Dolhun
-
-
 
