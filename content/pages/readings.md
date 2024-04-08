@@ -16,7 +16,7 @@ Required Text
 Recommended
 -----------
 
-\[SWH\] = Skoog, West, et al. _Fundamentals of Analytical Chemistry_. 9{{< sup "th" >}} ed. Brooks Cole, 2013. ISBN: 9780495558286. \[Preview with [Google Books](http://books.google.com/books?id=8bIWAAAAQBAJ&pg=PAfrontcover)\]
+\[SWH\] = Skoog, West, et al. _Fundamentals of Analytical Chemistry_. 9{{< sup "th" >}} ed. Brooks Cole, 2013. ISBN: 9780495558286. \[Preview with {{% resource_link "ca6613fe-fe05-45a2-a1f6-b71e2a22de60" "Google Books" %}}\]
 
 \[S&L\] = Skoog, Holler, and Crouch. _Principles of Instrumental Analysis_. 6{{< sup "th" >}} ed. CL, 2007. ISBN: 9788131525579.
 
@@ -91,7 +91,7 @@ Ellen Swallow Richards Lab
 
 \[MHS\] Chapter 25: UV & VIS Spectroscopy, pp. 465–475.
 
-Michaud, Joy. Chapter 4 in [_A Citizens Guide to Understanding and Monitoring Lakes and Streams_ (PDF – 7.4MB)](https://fortress.wa.gov/ecy/publications/documents/94149.pdf). Puget Sound Water Quality Authority, 1991, pp. 45–58. 
+Michaud, Joy. Chapter 4 in {{% resource_link "f60d6efa-f827-432b-82f5-16b0ea72f2da" "_A Citizens Guide to Understanding and Monitoring Lakes and Streams_ (PDF – 7.4MB)" %}}. Puget Sound Water Quality Authority, 1991, pp. 45–58. 
 
 ### Review
 
