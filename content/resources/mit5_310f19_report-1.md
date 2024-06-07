@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-310-laboratory-chemistry-fall-2019/1dfcf5c51821a7a6949f7745a199c063_MIT5_310F19_report.pdf
+file_size: 187983
 file_type: application/pdf
 learning_resource_types:
 - Labs
