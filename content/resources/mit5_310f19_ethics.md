@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-310-laboratory-chemistry-fall-2019/18d66495c02896f9947b1f732912e119_MIT5_310F19_ethics.pdf
+file_size: 228756
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
