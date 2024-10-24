@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/5-310-laboratory-chemistry-fall-2019/074e263f8603d1a743762fc6d6f049d5_-l9SfGuZJYE.srt
+file: /ol-ocw-studio-app/courses/5-310-laboratory-chemistry-fall-2019/074e263f8603d1a743762fc6d6f049d5_-l9SfGuZJYE.srt
 file_size: 60751
 file_type: application/x-subrip
 learning_resource_types: []
