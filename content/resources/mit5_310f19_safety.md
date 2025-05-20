@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/5-310-laboratory-chemistry-fall-2019/167fbb07b9f3482a2422217eb92df19f_MIT5_310F19_safety.pdf
+file: /courses/5-310-laboratory-chemistry-fall-2019/167fbb07b9f3482a2422217eb92df19f_MIT5_310F19_safety.pdf
 file_size: 232228
 file_type: application/pdf
 learning_resource_types: []
