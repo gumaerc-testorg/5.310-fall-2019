@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/5-310-laboratory-chemistry-fall-2019/e110e9e5021c25a0782d3f8f8681c59a_MIT5_310F19_grading.pdf
+file: /ol-ocw-studio-app/courses/5-310-laboratory-chemistry-fall-2019/e110e9e5021c25a0782d3f8f8681c59a_MIT5_310F19_grading.pdf
 file_size: 190798
 file_type: application/pdf
 learning_resource_types: []
