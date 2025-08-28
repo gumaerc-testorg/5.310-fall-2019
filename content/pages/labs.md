@@ -3,7 +3,7 @@ content_type: page
 description: This section includes descriptions and instructions for each of the 5
   laboratory experiments in the course.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: a3e5e4c2-e038-520e-a30c-a4c71f000fe5
