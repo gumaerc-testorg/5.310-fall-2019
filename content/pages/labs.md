@@ -81,7 +81,7 @@ Ellen Swallow Richards Lab
 {{< tdopen >}}
 
 
-This is an integrated experiment, which combines techniques from organic, biological, physical, food, and analytical chemistry. Its purpose is to introduce students to {{% resource_link "c554ea5e-d582-427c-b137-e8e5a9886151" "Ellen Swallow Richards" %}}.
+This is an integrated experiment, which combines techniques from organic, biological, physical, food, and analytical chemistry. Its purpose is to introduce students to [Ellen Swallow Richards](https://www.britannica.com/biography/Ellen-Swallow-Richards).
 
 *   The atomic absorption method and Inductively Coupled Plasma Mass Spectrometry (ICP-MS) as analytical techniques.
 *   UV-VIS Spectrophotometric analysis.
@@ -167,7 +167,7 @@ This is an integrated experiment, which combines techniques from organic, thermo
 
 Also see:
 
-Bruker NMR Automation use. By John H. Grimes, {{% resource_link "ee5948cb-a964-446c-baac-6784c6e2cbd4" "MIT Department of Chemistry Instrumentation Facility" %}}.
+Bruker NMR Automation use. By John H. Grimes, [MIT Department of Chemistry Instrumentation Facility](https://chemistry.mit.edu/facilities-and-centers/department-of-chemistry-instrumentation-facility-dcif/).
 
 
 {{< tdclose >}}
